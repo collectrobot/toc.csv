@@ -1,0 +1,126 @@
+1|Preface|-6
+1|Acknowledgments|-4
+1|Contents|-3
+1|Introduction: What Is Text Editing All About?|1
+2|The Basic Get-Line|2
+2|The Forest|9
+2|Questions to Probe Your Understanding|9
+1|Chapter 1: Users|11
+2|User Categories|11
+2|"Religion"|13
+2|User Goals|14
+2|Physiological Constraints|14
+2|Applying These Physiological Constraints|16
+2|Users Who Have Handicaps|19
+2|Questions to Probe Your Understanding|19
+1|Chapter 2: User Interface Hardware|21
+2|Display Types|21
+2|Keyboards|23
+2|Graphical Input|29
+2|Communications Path Issues|31
+2|Questions to Probe Your Understanding|35
+1|Chapter 3: Implementation Languages|36|
+2|General Considerations|36
+2|Specific Language Notes|38
+2|Questions to Probe Your Understanding|42
+1|Chapter 4: Editing Models|43
+2|One-Dimensional Array of Bytes|43
+2|Two-Dimensional Array of Bytes|43
+2|List of Lines|44
+2|Paged Models|44
+2|Objects|45
+2|Dealing with Real Text|45
+2|Questions to Probe Your Understanding|46
+1|Chapter 5: File Formats|47
+2|Text Files|47
+2|Binary Files|49
+2|Structured Files|50
+2|Where to Store the "Extra" Information|50
+2|The Additional Information|51
+2|Internationalization|52
+2|Questions to Probe Your Understanding|53
+1|Chapter 6: The Internal Sub-Editor|54
+2|Basic Concepts and Definitions|54
+2|Internal Data Structures|56
+2|Procedure Interface Definitions|58
+2|Characteristics of Implementation Methods|65
+2|Implementation Method Overview|71
+2|Buffer Gap|72
+2|Linked Line|72
+2|Paged Buffer Gap|73
+2|Other Methods|74
+2|Method Comparisons|74
+2|Editing Extremely Large Files|79
+2|Difference Files|80
+2|Questions to Probe Your Understanding|81
+1|Chapter 7: Redisplay|82
+2|Constraints|82
+2|Procedure Interface Definitions|84
+2|Considerations|90
+2|Redisplay Itself|96
+2|Questions to Probe Your Understanding|105
+1|Chapter 8: User-Oriented Commands: The Command Loop|106
+2|The Core Loop: Read, Evaluate, Print|106
+2|Errors|110
+2|Arguments|112
+2|Rebinding|115
+2|Modes|117
+2|Changing Your Mind|119
+2|Macros|123
+2|Questions to Probe Your Understanding|124
+1|Chapter 9: Command Set Design|125
+2|Responsiveness|125
+2|Consistency|126
+2|Permissiveness|126
+2|Progress|127
+2|Simplicity|127
+2|Uniformity|128
+2|Extensibility|128
+2|Modes|129
+2|Use of Language|130
+2|Guideline Summary|131
+2|Structure Editors|132
+2|Programming Assistance|133
+2|Command Behavior|135
+2|Questions to Probe Your Understanding|144
+1|Chapter 10: Emacs-Type Editors|145
+2|"What Do You Mean, 'Emacs-type?'"|145
+2|The Command Set|145
+2|The Extended Environment|146
+2|Extensibility|147
+2|Questions to Probe Your Understanding|148
+2|Epilogue|149
+2|Questions to Probe Your Understanding|149
+1|Appendix A: A Five-Minute Introduction to C|150
+2|Case Conventions|150
+2|Data Types and Declarations|151
+2|Constants|152
+2|Pre-defined Constants|152
+2|Procedure Structure|153
+2|Statements|153
+2|Operators|154
+2|Standard Library Functions Used in This Book|155
+2|Non-Standard Library Functions Used in This Book|155
+1|Appendix B: Emacs Implementations|156
+2|Acronyms|157
+2|Implementations Mentioned in My Thesis (Pre-1980)|157
+2|GNU-Emacs|158
+2|What Is Copyleft?|160
+2|Newer Implementations Available for No Charge|161
+2|Newer Implementations Sold by Vendors|166
+1|Appendix C: The Emacs Command Set|172
+2|Notation|172
+2|Default GNU-Emacs Command List|173
+2|Help Commands|174
+2|Control-X (1\ X) Commands|175
+2|Control-X 4 Commands|176
+2|Meta (1\ [) Commands|177
+2|The Author's Command Set|178
+1|Appendix D: The TECO Command Set|180
+2|General Notation|181
+2|E-Commands|187
+2|F-Commands|188
+2|FS-Variables|192
+1|Appendix E: ASCII Chart|202
+1|Bibliography|208
+1|Index|214
